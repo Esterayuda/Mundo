@@ -1,0 +1,8 @@
+Package mundo;
+
+//HolaMundo.java
+public class Hola Mundo (
+public static void main (String[] args) (
+    system.out.println("hola,chicos!");
+  )
+)
